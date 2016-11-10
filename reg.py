@@ -54,11 +54,6 @@ def programma():
 
 
 
-
-
-
-
-
             gebruikersnaam = gebruikersnaaminput.get()
             print(gebruikersnaam)
             wachtwoord_1 = wachtwoordinput_1.get()
@@ -83,12 +78,6 @@ def programma():
 
     regknop = Button(reg, text='Registreer', command = schrijf, width = 10)
     regknop.grid(column = 3)
-
-
-
-
-
-
 
 
     top.mainloop()
