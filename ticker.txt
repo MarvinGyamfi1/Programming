@@ -1,0 +1,6 @@
+YAHOO:YHOO
+GOOGLE INC:GOOG
+Harley_Davidson:HOG
+YAMANA GOLD:AUY
+Sotheby's:BID
+inBev:BUD
